@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\bd752760ccda50ed44f300395e2bfa53\transformed\databinding-adapters-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\0b61b670487e2726d97af880ff2d8151\transformed\jetified-databinding-ktx-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\365a8861fb6c05099e1177f004761555\transformed\databinding-runtime-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Marvi\.gradle\caches\transforms-3\b1d2366e855503261fe65dc1e56dac48\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\105f72ff551eb67dfeb3be0ad0f76f85\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\55cb914836768fefec99fe30148f52c6\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\3b7f5fc5db909c23c9da29cf17d2bdcf\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\cf8273260962e17992eaebbc79b040f0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Marvi\.gradle\caches\transforms-3\e28df2cb763f90c73c97a1d13ba88079\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Marvi\.gradle\caches\transforms-3\9fcbbbfa1950f85df16273e489f4ad1f\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\eea43fa8a5f1e9236e2d3347a1b333f5\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\f4659a953e5358aa07b8da228cb9b849\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\d9d81fe410d657ce1e1a661215191fa5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\53c6a8a09d5b61cd176197e467882aec\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\0b59745e9b33e847cdd7bbab0b26e00f\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\8712fdd977abc9a5de1c910593357ce3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\00d733bd3b0df39f09f95b2ab9864810\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\0a8f9bf7e0c89d187816ef6e254855e5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\d663e95941f5299b8b5d0b75fc6a0898\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\49c769b5c6940fdbfe3cf25a17d5b387\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\df9f3d31acdd4045353d1606b8d41ecc\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\5d476ce888ae6af6b933b5b23822a392\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Marvi\.gradle\caches\transforms-3\55dac055bbded48dde3e06e65bba4bf7\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\322a9e7e569647ea05e12ed3160390e5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\11ec08c6c19c95d1b527df89dce9782c\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\350f6d12360a13515030bfdd99f3210b\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\93233d1dd7a6b6407784f583130fdcd8\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\bf9a986d62d1e90e552f6627f453dfb0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\f58c943717716fce9ea7087ea0466fc3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\1542a9414a9bc8bbfe761e82c7361cbd\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\121312da265264a637750eb1800afe81\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\b51cbe8abe12741f7ad0af2fed56ca5b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\7a3400da48d7901a238272d1c2c53024\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\ae5a79b2160495cc7eb62c83123528e5\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\97a8e9ba8f34c502f046f147f0a6c3a4\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\787a81a0aa4987041e67a21c15297d99\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\5047d7c02d44f3d338c8c4a85cef3336\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\05f40a25139f01dbfd472c4c6523543c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\20aa30a0e35dbb344b27ec493036432c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\916b57c540e675d0fce4b670cfd0375f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\783b181603c09edf5c46776c00b011de\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\a6e2d4ab4b72fc25ae8f49ac17183888\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:20:5-35:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Marvi\.gradle\caches\transforms-3\b1d2366e855503261fe65dc1e56dac48\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Marvi\.gradle\caches\transforms-3\b1d2366e855503261fe65dc1e56dac48\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\105f72ff551eb67dfeb3be0ad0f76f85\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\105f72ff551eb67dfeb3be0ad0f76f85\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\3b7f5fc5db909c23c9da29cf17d2bdcf\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\3b7f5fc5db909c23c9da29cf17d2bdcf\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Marvi\.gradle\caches\transforms-3\55dac055bbded48dde3e06e65bba4bf7\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Marvi\.gradle\caches\transforms-3\55dac055bbded48dde3e06e65bba4bf7\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\322a9e7e569647ea05e12ed3160390e5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\322a9e7e569647ea05e12ed3160390e5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Marvi\.gradle\caches\transforms-3\55dac055bbded48dde3e06e65bba4bf7\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:24:9-61
+	android:icon
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:22:9-50
+	android:allowBackup
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.dessertclicker.MainActivity
+ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:27:19-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\bd752760ccda50ed44f300395e2bfa53\transformed\databinding-adapters-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\bd752760ccda50ed44f300395e2bfa53\transformed\databinding-adapters-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\0b61b670487e2726d97af880ff2d8151\transformed\jetified-databinding-ktx-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\0b61b670487e2726d97af880ff2d8151\transformed\jetified-databinding-ktx-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\365a8861fb6c05099e1177f004761555\transformed\databinding-runtime-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\365a8861fb6c05099e1177f004761555\transformed\databinding-runtime-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Marvi\.gradle\caches\transforms-3\b1d2366e855503261fe65dc1e56dac48\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Marvi\.gradle\caches\transforms-3\b1d2366e855503261fe65dc1e56dac48\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\105f72ff551eb67dfeb3be0ad0f76f85\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\105f72ff551eb67dfeb3be0ad0f76f85\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\55cb914836768fefec99fe30148f52c6\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\55cb914836768fefec99fe30148f52c6\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\3b7f5fc5db909c23c9da29cf17d2bdcf\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\3b7f5fc5db909c23c9da29cf17d2bdcf\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\cf8273260962e17992eaebbc79b040f0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\cf8273260962e17992eaebbc79b040f0\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Marvi\.gradle\caches\transforms-3\e28df2cb763f90c73c97a1d13ba88079\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Marvi\.gradle\caches\transforms-3\e28df2cb763f90c73c97a1d13ba88079\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Marvi\.gradle\caches\transforms-3\9fcbbbfa1950f85df16273e489f4ad1f\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Marvi\.gradle\caches\transforms-3\9fcbbbfa1950f85df16273e489f4ad1f\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\eea43fa8a5f1e9236e2d3347a1b333f5\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\eea43fa8a5f1e9236e2d3347a1b333f5\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\f4659a953e5358aa07b8da228cb9b849\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\f4659a953e5358aa07b8da228cb9b849\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\d9d81fe410d657ce1e1a661215191fa5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\d9d81fe410d657ce1e1a661215191fa5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\53c6a8a09d5b61cd176197e467882aec\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\53c6a8a09d5b61cd176197e467882aec\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\0b59745e9b33e847cdd7bbab0b26e00f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\0b59745e9b33e847cdd7bbab0b26e00f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\8712fdd977abc9a5de1c910593357ce3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\8712fdd977abc9a5de1c910593357ce3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\00d733bd3b0df39f09f95b2ab9864810\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\00d733bd3b0df39f09f95b2ab9864810\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\0a8f9bf7e0c89d187816ef6e254855e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\0a8f9bf7e0c89d187816ef6e254855e5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\d663e95941f5299b8b5d0b75fc6a0898\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\d663e95941f5299b8b5d0b75fc6a0898\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\49c769b5c6940fdbfe3cf25a17d5b387\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\49c769b5c6940fdbfe3cf25a17d5b387\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\df9f3d31acdd4045353d1606b8d41ecc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\df9f3d31acdd4045353d1606b8d41ecc\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\5d476ce888ae6af6b933b5b23822a392\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\5d476ce888ae6af6b933b5b23822a392\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Marvi\.gradle\caches\transforms-3\55dac055bbded48dde3e06e65bba4bf7\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Marvi\.gradle\caches\transforms-3\55dac055bbded48dde3e06e65bba4bf7\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\322a9e7e569647ea05e12ed3160390e5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Marvi\.gradle\caches\transforms-3\322a9e7e569647ea05e12ed3160390e5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\11ec08c6c19c95d1b527df89dce9782c\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\Users\Marvi\.gradle\caches\transforms-3\11ec08c6c19c95d1b527df89dce9782c\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\350f6d12360a13515030bfdd99f3210b\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\350f6d12360a13515030bfdd99f3210b\transformed\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\93233d1dd7a6b6407784f583130fdcd8\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\93233d1dd7a6b6407784f583130fdcd8\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\bf9a986d62d1e90e552f6627f453dfb0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\bf9a986d62d1e90e552f6627f453dfb0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\f58c943717716fce9ea7087ea0466fc3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\f58c943717716fce9ea7087ea0466fc3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\1542a9414a9bc8bbfe761e82c7361cbd\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\1542a9414a9bc8bbfe761e82c7361cbd\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\121312da265264a637750eb1800afe81\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\121312da265264a637750eb1800afe81\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\b51cbe8abe12741f7ad0af2fed56ca5b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\b51cbe8abe12741f7ad0af2fed56ca5b\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\7a3400da48d7901a238272d1c2c53024\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\7a3400da48d7901a238272d1c2c53024\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\ae5a79b2160495cc7eb62c83123528e5\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\ae5a79b2160495cc7eb62c83123528e5\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\97a8e9ba8f34c502f046f147f0a6c3a4\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Marvi\.gradle\caches\transforms-3\97a8e9ba8f34c502f046f147f0a6c3a4\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\787a81a0aa4987041e67a21c15297d99\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Marvi\.gradle\caches\transforms-3\787a81a0aa4987041e67a21c15297d99\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\5047d7c02d44f3d338c8c4a85cef3336\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\5047d7c02d44f3d338c8c4a85cef3336\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\05f40a25139f01dbfd472c4c6523543c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\05f40a25139f01dbfd472c4c6523543c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\20aa30a0e35dbb344b27ec493036432c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\20aa30a0e35dbb344b27ec493036432c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\916b57c540e675d0fce4b670cfd0375f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\916b57c540e675d0fce4b670cfd0375f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\783b181603c09edf5c46776c00b011de\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\783b181603c09edf5c46776c00b011de\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\a6e2d4ab4b72fc25ae8f49ac17183888\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Marvi\.gradle\caches\transforms-3\a6e2d4ab4b72fc25ae8f49ac17183888\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Marvi\Downloads\unidad3\path 1\android-basics-kotlin-dessert-clicker-app-starter\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Marvi\.gradle\caches\transforms-3\d3ea0062ff1729bca540c217203940ba\transformed\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
